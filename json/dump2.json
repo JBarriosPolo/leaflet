@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Playa Venao",
+    "propietario": "Juan Pérez",
+    "lng": -80.0145,
+    "lat": 7.4194,
+    "provincia": "Los Santos",
+    "distrito": "Pedasí"
+  },
+  {
+    "nombre": "Isla Taboga",
+    "propietario": "María Rodríguez",
+    "lng": -79.5534,
+    "lat": 8.7836,
+    "provincia": "Panamá",
+    "distrito": "Taboga"
+  },
+  {
+    "nombre": "Playa Santa Clara",
+    "propietario": "Carlos González",
+    "lng": -80.1688,
+    "lat": 8.3779,
+    "provincia": "Coclé",
+    "distrito": "Antón"
+  },
+  {
+    "nombre": "Boca Chica",
+    "propietario": "Ana Morales",
+    "lng": -82.2087,
+    "lat": 8.2193,
+    "provincia": "Chiriquí",
+    "distrito": "San Lorenzo"
+  },
+  {
+    "nombre": "Playa Blanca",
+    "propietario": "Roberto Jiménez",
+    "lng": -80.1138,
+    "lat": 8.3719,
+    "provincia": "Coclé",
+    "distrito": "Antón"
+  }
+]
