@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 1: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.20895069884149, 8.603549419578627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 2: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.05368482220317, 8.504923862059925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 3: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.17473548529594, 8.646649987646967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 4: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.20221553619861, 8.614968930392834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 5: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.21503116872609, 8.609102784674533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 6: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.05145541756193, 8.520532795268082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 7: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.06326503703188, 8.513646557254006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 8: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.92619426113474, 8.33126993349984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 9: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.9330300484376, 8.341184200196665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 10: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.93010131603947, 8.337217403501612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 11: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.89302915706095, 8.833500806077922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 12: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.89043924760277, 8.847561415403646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "popup": "Punto 13: Descripción aquí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.901372234189, 8.845571463133197]
+      }
+    }
+  ]
+}
